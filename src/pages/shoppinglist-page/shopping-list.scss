@@ -1,0 +1,28 @@
+.sidenav {
+    height: 100%;
+    width: 15%;
+    position: fixed;
+    z-index: 0;
+    top: 5;
+    left: 0;
+    background-color: rgb(245, 238, 238);
+    overflow-x: hidden;
+    padding-top: 20px;
+  }
+
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(41, 41, 206);
+    color: white;
+    text-align: center;
+    p{
+      margin-top: 8px;
+    }
+  }
+
+  @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+  }
