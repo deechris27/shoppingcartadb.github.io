@@ -3,7 +3,9 @@ import './sort-component.scss';
 
 const SortComponent = () => (
     <div className="sort-component">
-        <h2>Sortie..............</h2>
+        <a className="sortyby">Sort By</a>
+        <a className="highlow">Price -- High Low</a>
+        <a className="lowhigh">Price -- Low High</a>
     </div>
 )
 

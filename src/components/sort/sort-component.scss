@@ -1,3 +1,18 @@
-.sort-component{
-    text-align: center;
-}
+.sort-component {
+    display: flex;
+    justify-content: right;
+    padding: 20px;
+    margin-left: 155px;
+  }
+  .sortyby {
+    width: 25%;
+    cursor: pointer;
+  }
+  .highlow {
+    width: 50%;
+    cursor: pointer;
+  }
+  .lowhigh {
+    width: 25%;
+    cursor: pointer;
+  }

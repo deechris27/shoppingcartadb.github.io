@@ -4,7 +4,7 @@ import './filter.scss';
 const FilterComponent = () => {
     return (
           <div className="range-filter">
-               <input type="range" min="1" max="100" value="50" className="slider" id="myRange" />
+                <input value="500" min="500" max="50000" step="500" type="range" />
                 <div className="range-apply-button">
                    <button className="btn btn-primary">Apply</button>
                 </div>

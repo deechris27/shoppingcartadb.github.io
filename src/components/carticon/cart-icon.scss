@@ -1,3 +1,10 @@
 .cart-icon{
     margin-top: 10px;
+    cursor: pointer;
 }
+
+.added-items{
+    position: absolute;
+    background-color: red;
+    border-radius: 10px;
+  }

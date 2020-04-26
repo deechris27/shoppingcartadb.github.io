@@ -1,10 +1,11 @@
 import React from 'react';
-//import {ReactComponent as ShoppingCart} from '../../assets/shopping-bag.svg';
+import {ReactComponent as ShoppingCart} from '../../assets/shopping-cart.svg';
 import './cart-icon.scss';
 
 const ShoppingCartIcon = () => (
-    <div className="shopping-cart">
-       <i className="fa fa-shopping-cart fa-2x cart-icon" aria-hidden="true"></i>
+    <div className="cart-icon">
+       <ShoppingCart />
+       <span className="added-items">{localStorage.getItem("item-count")}</span>
     </div>
 );
 
