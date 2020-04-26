@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shoppingcarjw/static/css/main.c02cf3d3.chunk.css",
+    "main.js": "/shoppingcarjw/static/js/main.084a255a.chunk.js",
+    "main.js.map": "/shoppingcarjw/static/js/main.084a255a.chunk.js.map",
+    "runtime-main.js": "/shoppingcarjw/static/js/runtime-main.799765d4.js",
+    "runtime-main.js.map": "/shoppingcarjw/static/js/runtime-main.799765d4.js.map",
+    "static/js/2.c4e2b8f9.chunk.js": "/shoppingcarjw/static/js/2.c4e2b8f9.chunk.js",
+    "static/js/2.c4e2b8f9.chunk.js.map": "/shoppingcarjw/static/js/2.c4e2b8f9.chunk.js.map",
+    "index.html": "/shoppingcarjw/index.html",
+    "precache-manifest.d569473b925e8d888ca4d73328acaeff.js": "/shoppingcarjw/precache-manifest.d569473b925e8d888ca4d73328acaeff.js",
+    "service-worker.js": "/shoppingcarjw/service-worker.js",
+    "static/css/main.c02cf3d3.chunk.css.map": "/shoppingcarjw/static/css/main.c02cf3d3.chunk.css.map",
+    "static/js/2.c4e2b8f9.chunk.js.LICENSE.txt": "/shoppingcarjw/static/js/2.c4e2b8f9.chunk.js.LICENSE.txt",
+    "static/media/star.59857622.svg": "/shoppingcarjw/static/media/star.59857622.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.799765d4.js",
+    "static/js/2.c4e2b8f9.chunk.js",
+    "static/css/main.c02cf3d3.chunk.css",
+    "static/js/main.084a255a.chunk.js"
+  ]
+}
